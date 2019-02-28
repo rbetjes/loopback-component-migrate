@@ -15,11 +15,6 @@
       "required": true
     }
   },
-  "indexes": {
-    "name_index": {
-      "name": 1
-    }
-  },
   "methods": {
     "migrateTo": {
       "description": "Run all pending migrations",
